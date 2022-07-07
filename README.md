@@ -90,3 +90,7 @@ When
     (TimeParam "Payment deadline")
     Close 
 </pre>
+
+
+## Blockly
+ Can convert above code to Blockly in the playground itself.
