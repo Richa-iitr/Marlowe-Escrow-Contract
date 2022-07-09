@@ -1,4 +1,4 @@
-## Marlowe Contract
+## Marlowe Escrow Contract
 
 Run/ simulate on [Marlowe Playground](https://marlowe-playground-staging.plutus.aws.iohkdev.io/#/)
 
